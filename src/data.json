@@ -1,0 +1,22 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "img": "blank-space-image.jpeg",
+      "title": "Blank Space",
+      "artist": "Taylor Swift",
+      "album": "1989 Taylor Swift",
+      "song": "blank-space.mp3",
+      "time": "4:32"
+    },
+    {
+      "id": 2,
+      "img": "fortnight.jpg",
+      "title": "Fortnight",
+      "artist": "Taylor Swift",
+      "album": "1989 Taylor Swift",
+      "song": "fortnight.mp3",
+      "time": "4:09"
+    }
+  ]
+}
